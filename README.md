@@ -1,7 +1,7 @@
 
 
 - 🎓 Machine Learning & Data Science M.S. student at [USC](https://viterbischool.usc.edu).
-- 🧑‍💻 Graduate Research Assistant at the Signal Analysis and Interpretation Laboratory ([SAIL](https://sail.usc.edu)) at USC.
+- 🧑‍💻 Graduate Research Assistant at Signal Analysis and Interpretation Laboratory ([SAIL](https://sail.usc.edu)) at USC.
 - 🎸 Currently researching AI for speech and audio.
 - 🔭 Research Interests: multimodal learning, self-supervised searning, representation learning.
 - 🔍 Looking for opportunities post-graduation (2023).
