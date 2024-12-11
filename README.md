@@ -1,10 +1,12 @@
 
 
-- 🎓 Machine Learning & Data Science M.S. student at [USC](https://viterbischool.usc.edu).
-- 🧑‍💻 Graduate Research Assistant at Signal Analysis and Interpretation Laboratory ([SAIL](https://sail.usc.edu)) at USC.
-- 🎸 Currently researching AI for speech and audio.
-- 🔭 Research Interests: representation learning, self-supervised learning, multimodal learning, cross-modal retrieval.
-- 🔍 Looking for opportunities post-graduation.
+- 🎓 Recent Machine Learning & Data Science M.S. grad from [USC](https://viterbischool.usc.edu).
+- 🧑‍💻 Previously:
+  - Research Intern @ [Hume AI](https://www.hume.ai/)
+  - Research Intern @ [Dolby](https://www.dolby.com/)
+  - Graduate Research Assistant @ [SAIL](https://sail.usc.edu)
+- 🎸 Core Research Area: machine learning for musical co-creativity.
+- 🔭 Research Interests: generative audio modeling, controllable music generation, music information retrieval, speech synthesis, audiovisual learning.
 - 📫 How to reach me: shantiystewart@gmail.com
 
 
