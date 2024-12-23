@@ -1,13 +1,13 @@
 
 
-- 🎓 Recent Machine Learning & Data Science M.S. grad from [USC](https://viterbischool.usc.edu).
+- 🎓 Recent Electrical & Computer Engineering (ML & Data Science track) M.S. grad from [USC Viterbi](https://viterbischool.usc.edu).
 - 🧑‍💻 Previously:
   - Research Intern @ [Hume AI](https://www.hume.ai/)
   - Research Intern @ [Dolby](https://www.dolby.com/)
   - Graduate Research Assistant @ [SAIL](https://sail.usc.edu)
 - 🎸 Core Research Area: machine learning for musical co-creativity.
 - 🔭 Research Interests: generative audio modeling, controllable music generation, music information retrieval, speech synthesis, audiovisual learning.
-- 📫 How to reach me: shantiystewart@gmail.com
+- 📫 How to reach me: shantiystewart[at]gmail.com
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanti-stewart/)](https://www.linkedin.com/in/shanti-stewart/) 
