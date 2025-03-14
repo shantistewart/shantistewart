@@ -1,8 +1,8 @@
 
 
-- 🎓 Recent Electrical & Computer Engineering (ML & Data Science track) M.S. grad from [USC Viterbi](https://viterbischool.usc.edu).
+- 🎓 Recent ML & Data Science M.S. grad from [USC Viterbi](https://viterbischool.usc.edu).
 - 🧑‍💻 Previously:
-  - Research Intern @ [Hume AI](https://www.hume.ai/)
+  - AI Research Intern @ [Hume AI](https://www.hume.ai/)
   - Research Intern @ [Dolby](https://www.dolby.com/)
   - Graduate Research Assistant @ [SAIL](https://sail.usc.edu)
 - 🎸 Core Research Area: machine learning for musical co-creativity.
