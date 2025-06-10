@@ -5,8 +5,7 @@
   - AI Research Intern @ [Hume AI](https://www.hume.ai/)
   - Research Intern @ [Dolby](https://www.dolby.com/)
   - Graduate Research Assistant @ [SAIL](https://sail.usc.edu)
-- 🎸 Core Research Area: machine learning for musical co-creativity.
-- 🔭 Research Interests: generative audio modeling, controllable music generation, music information retrieval, speech synthesis, audiovisual learning.
+- 🔭 Research Interests: generative audio modeling, speech synthesis, controllable music generation, audiovisual learning.
 - 📫 How to reach me: shantiystewart[at]gmail.com
 
 
